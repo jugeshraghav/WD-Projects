@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(201, 180, 129);
+    font-family:cursive;
+}
+.container{
+    width:800px;
+    margin:auto;
+    margin-top:10px;
+    padding:10px;
+    background-color:lightgrey;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:4px 4px 5px rgb(39, 38, 38);
+}
+img{
+    border-radius:50%;
+}
+li{
+    text-align:left;
+    margin:10px 0px;
+}
